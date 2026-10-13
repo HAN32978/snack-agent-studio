@@ -1,5 +1,15 @@
 [
   {
+    "id": "c7df47e5-c435-4d0a-9593-d1602fb633c0",
+    "requestId": "cbf283a1-e09f-4d43-817c-6c4a281e3893",
+    "createdAt": "2026-10-13T10:42:18.634Z",
+    "success": false,
+    "latencyMs": 19,
+    "stepCount": 0,
+    "failedStep": "planner",
+    "sessionId": "7ce8b01c-c44e-4cb6-9eea-ee9c22fb2693"
+  },
+  {
     "id": "895e49a6-6aff-4cbd-a110-e0cc6eebc6b1",
     "requestId": "218d2a3d-527b-4e5e-819c-47aaaaac4170",
     "createdAt": "2026-08-11T13:46:08.152Z",
